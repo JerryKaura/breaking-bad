@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/JerryKaura.github.io/breaking-bad/static/css/main.c78beed3.chunk.css",
-    "main.js": "/JerryKaura.github.io/breaking-bad/static/js/main.6b05984e.chunk.js",
-    "main.js.map": "/JerryKaura.github.io/breaking-bad/static/js/main.6b05984e.chunk.js.map",
-    "runtime-main.js": "/JerryKaura.github.io/breaking-bad/static/js/runtime-main.0257e8d1.js",
-    "runtime-main.js.map": "/JerryKaura.github.io/breaking-bad/static/js/runtime-main.0257e8d1.js.map",
-    "static/js/2.08933941.chunk.js": "/JerryKaura.github.io/breaking-bad/static/js/2.08933941.chunk.js",
-    "static/js/2.08933941.chunk.js.map": "/JerryKaura.github.io/breaking-bad/static/js/2.08933941.chunk.js.map",
-    "index.html": "/JerryKaura.github.io/breaking-bad/index.html",
-    "precache-manifest.839e18366b4a2d18ffeb94c57eb61117.js": "/JerryKaura.github.io/breaking-bad/precache-manifest.839e18366b4a2d18ffeb94c57eb61117.js",
-    "service-worker.js": "/JerryKaura.github.io/breaking-bad/service-worker.js",
-    "static/css/main.c78beed3.chunk.css.map": "/JerryKaura.github.io/breaking-bad/static/css/main.c78beed3.chunk.css.map",
-    "static/js/2.08933941.chunk.js.LICENSE.txt": "/JerryKaura.github.io/breaking-bad/static/js/2.08933941.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/JerryKaura.github.io/breaking-bad/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/JerryKaura.github.io/breaking-bad/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/JerryKaura.github.io/breaking-bad/static/media/spinner.235b9b3e.gif"
+    "main.css": "/JerryKaura.github.io/breaking/static/css/main.ed4684dd.chunk.css",
+    "main.js": "/JerryKaura.github.io/breaking/static/js/main.6b05984e.chunk.js",
+    "main.js.map": "/JerryKaura.github.io/breaking/static/js/main.6b05984e.chunk.js.map",
+    "runtime-main.js": "/JerryKaura.github.io/breaking/static/js/runtime-main.2e254eea.js",
+    "runtime-main.js.map": "/JerryKaura.github.io/breaking/static/js/runtime-main.2e254eea.js.map",
+    "static/js/2.08933941.chunk.js": "/JerryKaura.github.io/breaking/static/js/2.08933941.chunk.js",
+    "static/js/2.08933941.chunk.js.map": "/JerryKaura.github.io/breaking/static/js/2.08933941.chunk.js.map",
+    "index.html": "/JerryKaura.github.io/breaking/index.html",
+    "precache-manifest.076bacb9ef1654dc97dd675ec258a4b5.js": "/JerryKaura.github.io/breaking/precache-manifest.076bacb9ef1654dc97dd675ec258a4b5.js",
+    "service-worker.js": "/JerryKaura.github.io/breaking/service-worker.js",
+    "static/css/main.ed4684dd.chunk.css.map": "/JerryKaura.github.io/breaking/static/css/main.ed4684dd.chunk.css.map",
+    "static/js/2.08933941.chunk.js.LICENSE.txt": "/JerryKaura.github.io/breaking/static/js/2.08933941.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/JerryKaura.github.io/breaking/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/JerryKaura.github.io/breaking/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/JerryKaura.github.io/breaking/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.0257e8d1.js",
+    "static/js/runtime-main.2e254eea.js",
     "static/js/2.08933941.chunk.js",
-    "static/css/main.c78beed3.chunk.css",
+    "static/css/main.ed4684dd.chunk.css",
     "static/js/main.6b05984e.chunk.js"
   ]
 }
